@@ -9,8 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f6ee062-8581-4a8f-b56c-ee41dc857f59" name="Changes" comment="Add GameRepository.java">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/labboneskjakarta/dto/GameDto.java" afterDir="false" />
+    <list default="true" id="2f6ee062-8581-4a8f-b56c-ee41dc857f59" name="Changes" comment="Add GameMapper.java">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/labboneskjakarta/controller/GameController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677856654296</updated>
       <workItem from="1677856655333" duration="1436000" />
-      <workItem from="1678095232411" duration="1501000" />
+      <workItem from="1678095232411" duration="3014000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1678095614815</created>
@@ -119,16 +120,43 @@
       <option name="project" value="LOCAL" />
       <updated>1678096079353</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add GameDto.java">
+      <created>1678097418100</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678097418100</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add GameMapper.java">
+      <created>1678097850804</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678097850804</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Add Game.java" />
     <MESSAGE value="Add GameRepository.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add GameRepository.java" />
+    <MESSAGE value="Add GameDto.java" />
+    <MESSAGE value="Add GameMapper.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add GameMapper.java" />
   </component>
 </project>
